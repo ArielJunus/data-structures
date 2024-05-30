@@ -8,6 +8,8 @@
 
 ## 作業連結區 :confused:
 
+[LLMTwins github 鏈接](https://github.com/ArielJunus/LLMTwins)
+
 ## 專題連結區 :thinking:
 
 ---
