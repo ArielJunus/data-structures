@@ -1,0 +1,8 @@
+Array
+(
+    [0] => Array
+        (
+            [summary_text] => Loan ID 18 for Ariel with amount 100000 is due on 2024-06-19. Loan ID 19 for Jane with amount 10000 is due in 2024-05-25. Loan IDs 20 and 21 for Lisa with amount 40000 are due on 2016-07-10.
+        )
+
+)
